@@ -1,0 +1,31 @@
+select option {
+    white-space: pre-line;
+}
+
+.size-text {
+    border: none;
+    text-align: left;
+}
+
+.reward-button {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.selectButton {
+    border: none;
+    background: white;
+    font-size: 20px;
+}
+
+.no-bullets {
+    list-style-type: none;
+    text-align: left;
+    font-size: 20px;
+}
+
+.remove-button {
+    border: none;
+    background-color: white;
+    color: blue;
+}
